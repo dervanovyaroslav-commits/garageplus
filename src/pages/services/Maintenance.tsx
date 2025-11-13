@@ -21,28 +21,28 @@ const Maintenance = () => {
       title: 'ТО A (базовое)',
       description: 'Замена масла двигателя, проверка основных систем',
       price: 'от 8 500 ₽',
-      image: 'https://images.unsplash.com/photo-1487754180451-c456f719a1fc?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80'
+      image: '/services/maintenance-a-service.png'
     },
     {
       id: 'maintenance-b-service',
       title: 'ТО B (расширенное)',
       description: 'Полное техническое обслуживание с заменой фильтров',
       price: 'от 15 000 ₽',
-      image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80'
+      image: '/services/maintenance-b-service.png'
     },
     {
       id: 'brake-service',
       title: 'Обслуживание тормознойй системы',
       description: 'Замена колодок, дисков, проверка системы',
       price: 'от 12 000 ₽',
-      image: 'https://images.unsplash.com/photo-1486496572940-2bb2341fdbdf?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80'
+      image: '/services/brake-service.png'
     },
     {
       id: 'suspension-service',
       title: 'Ремонт подвески',
       description: 'Замена амортизаторов, пружин, втулок',
       price: 'от 20 000 ₽',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80'
+      image: '/services/suspension-service.png'
     }
   ];
 
