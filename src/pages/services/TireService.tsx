@@ -120,7 +120,7 @@ const Transmission = () => {
                     boxShadow: theme.colors.shadows.card
                   }}
                 >
-                  <div className="aspect-[4/3] overflow-hidden rounded-t-2xl">
+                  <div className="aspect-[4/4] overflow-hidden rounded-t-2xl">
                     {/*<img 
                       alt={category.title}
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
