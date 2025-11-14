@@ -13,21 +13,21 @@ const Transmission = () => {
       id: 'oil-change',
       title: 'Замена масла АКПП',
       description: 'Частичная и полная замена трансмиссионного масла',
-      image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80',
+      image: '/services/oil-change.png',
       services: ['Замена масла (частичная/полная)', 'Фильтр, поддон']
     },
     {
       id: 'hydraulic-block',
       title: 'Ремонт гидроблока',
       description: 'Диагностика и ремонт гидравлического блока управления',
-      image: 'https://images.unsplash.com/photo-1486496572940-2bb2341fdbdf?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80',
+      image: '/services/hydraulic-block.png',
       services: ['Ремонт гидроблока', 'Диагностика, адаптация']
     },
     {
       id: '7g-tronic',
       title: 'Проблемы 7G-Tronic',
       description: 'Специализированный ремонт коробки передач 7G-Tronic',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80',
+      image: '/services/7g-tronic.png',
       services: ['Проблемы 7G-Tronic', 'Адаптация и настройка']
     }
   ];
